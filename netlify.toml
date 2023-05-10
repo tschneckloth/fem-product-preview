@@ -1,4 +1,4 @@
 [build]
   base = ""
-  publish = "_site"
+  publish = "public"
   command = "npx @11ty/eleventy"
